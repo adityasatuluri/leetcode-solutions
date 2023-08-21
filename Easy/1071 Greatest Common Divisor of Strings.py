@@ -23,6 +23,7 @@ str1 and str2 consist of English uppercase letters.
 '''
 
 #code
+#---------------------------------------------------------------------------------------------------------
 
 class Solution(object):
     def gcdOfStrings(self, str1, str2):
@@ -38,6 +39,7 @@ class Solution(object):
             return ''
 
 
+#---------------------------------------------------------------------------------------------------------
 #explianation:
 
 '''In this code, I've completed the gcdOfStrings method inside the Solution class. 
